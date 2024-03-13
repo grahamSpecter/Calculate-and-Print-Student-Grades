@@ -82,7 +82,8 @@ float jeongGradesAverage = jeongGradesSum / currentAssignments;
 
 string GradeScore(float GradeSum)
 {
-    if (GradeSum >= 90) return "A";
+    if (GradeSum >= 97) return "A+";
+    else if (GradeSum >= 90) return "A";
     else if (GradeSum >= 80) return "B";
     else if (GradeSum >= 70) return "C";
     else if (GradeSum >= 60) return "D";
@@ -97,7 +98,7 @@ string jeongLetterGrade = GradeScore(jeongGradesAverage);
 
 // Output
 Console.WriteLine("\r");
-Console.WriteLine("{0,-10} {1,5} {2,5}", "Student", "Grade", "Letter");
+Console.WriteLine("{0,-10}| {1,5} | {2,5}", "Student", "Grade", "Letter");
 Console.WriteLine("-------------------------------------");
 Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Sophia", sophiaGradesAverage, sophiaLetterGrade);
 Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Nicolas", nicolasGradesAverage, nicolasLetterGrade);
