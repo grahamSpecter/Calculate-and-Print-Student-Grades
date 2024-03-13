@@ -1,3 +1,5 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Hello, World!");
 /* You're developing a Student Grading application that automates the calculation of current grades for each student in a class. The parameters for your application are:
 
 You're given a short list of four students and their five assignment grades.
@@ -40,7 +42,6 @@ int sophia5 = 100;
 int nicolas1 = 80;
 int nicolas2 = 83;
 int nicolas3 = 82;
-int nicolas3 = 82;
 int nicolas4 = 88;
 int nicolas5 = 85;
 
@@ -55,4 +56,16 @@ int jeong2 = 92;
 int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
+
+//Creating a sum of an array of the grades for sophia
+
+int[] sophiaGrades = new int[] {sophia1, sophia2, sophia3, sophia4, sophia5};
+int sophiaGradesSum = sophiaGrades.Sum();
+//  Write sophiaGradesSum below to test
+//Console.WriteLine(sophiaGradesSum);
+
+// Workout grades average for Sophia
+int sophiaGradesAverage = sophiaGradesSum / currentAssignments;
+Console.WriteLine(sophiaGradesSum);
+
 
