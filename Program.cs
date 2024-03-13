@@ -115,6 +115,7 @@ string zahirahLetterGrade = GradeScore(zahirahGradesAverage);
 string jeongLetterGrade = GradeScore(jeongGradesAverage);
 
 // Output
+Console.WriteLine("\r");
 Console.WriteLine("{0,-10} {1,5} {2,5}", "Student", "Grade", "Letter");
 Console.WriteLine("-------------------------------------");
 Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Sophia", sophiaGradesAverage, sophiaLetterGrade);
