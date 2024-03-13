@@ -1,0 +1,15 @@
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\bin\Debug\net8.0\CalculateAndPrintStudentGrades.exe
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\bin\Debug\net8.0\CalculateAndPrintStudentGrades.deps.json
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\bin\Debug\net8.0\CalculateAndPrintStudentGrades.runtimeconfig.json
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\bin\Debug\net8.0\CalculateAndPrintStudentGrades.dll
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\bin\Debug\net8.0\CalculateAndPrintStudentGrades.pdb
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.AssemblyInfoInputs.cache
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.AssemblyInfo.cs
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.sourcelink.json
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.dll
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\refint\CalculateAndPrintStudentGrades.dll
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.pdb
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\CalculateAndPrintStudentGrades.genruntimeconfig.cache
+C:\Users\G.Healiss\OneDrive - Slater and Gordon\Documents\Training\Training Projects\Calculate and Print Student Grades\obj\Debug\net8.0\ref\CalculateAndPrintStudentGrades.dll
