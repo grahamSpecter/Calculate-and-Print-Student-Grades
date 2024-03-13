@@ -60,42 +60,23 @@ int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
 
-//Creating a sum of an array of the grades for sophia
+// Refactored code - Student Grades
 int[] sophiaGrades = new int[] {sophia1, sophia2, sophia3, sophia4, sophia5};
-float sophiaGradesSum = sophiaGrades.Sum();
-
-//  Write sophiaGradesSum below to test
-//Console.WriteLine(sophiaGradesSum);
-
-// Workout grades average for Sophia
-float sophiaGradesAverage = sophiaGradesSum / currentAssignments;
-//Console.WriteLine(sophiaGradesAverage);
-
-// --------------Same as above now for nicolas------------------------------------
-
 int[] nicolasGrades = new int[] {nicolas1, nicolas2, nicolas3, nicolas4, nicolas5};
-float nicolasGradesSum = nicolasGrades.Sum();
-
-//Console.WriteLine(nicolasGradesSum);
-float nicolasGradesAverage = nicolasGradesSum / currentAssignments;
-//Console.WriteLine(nicolasGradesAverage);
-
-// --------------Same as above now for zahirah------------------------------------
-
 int[] zahirahGrades = new int[] {zahirah1, zahirah2, zahirah3, zahirah4, zahirah5};
-float zahirahGradesSum = zahirahGrades.Sum();
-
-//Console.WriteLine(zahirahGradesSum);
-float zahirahGradesAverage = zahirahGradesSum / currentAssignments;
-//Console.WriteLine(zahirahGradesAverage);
-
-// --------------Same as above now for jeong------------------------------------
 int[] jeongGrades = new int[] {jeong1, jeong2, jeong3, jeong4, jeong5};
+
+// Refactored code - GradeSums
+float sophiaGradesSum = sophiaGrades.Sum();
+float nicolasGradesSum = nicolasGrades.Sum();
+float zahirahGradesSum = zahirahGrades.Sum();
 float jeongGradesSum = jeongGrades.Sum();
 
-//Console.WriteLine(jeongGradesSum);
+// Refactored code - Calculating Averages
+float sophiaGradesAverage = sophiaGradesSum / currentAssignments;
+float nicolasGradesAverage = nicolasGradesSum / currentAssignments;
+float zahirahGradesAverage = zahirahGradesSum / currentAssignments;
 float jeongGradesAverage = jeongGradesSum / currentAssignments;
-//Console.WriteLine(jeongGradesAverage);
 
 // --------------Method for assigning LetterGrades------------------------------------
 
@@ -122,3 +103,4 @@ Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Sophia", sophiaGradesAverage, sophi
 Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Nicolas", nicolasGradesAverage, nicolasLetterGrade);
 Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Zahirah", zahirahGradesAverage, zahirahLetterGrade);
 Console.WriteLine("{0,-10} {1,5:F1} {2,5}", "Jeong", jeongGradesAverage, jeongLetterGrade);
+Console.WriteLine("\r");
